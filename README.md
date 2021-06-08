@@ -13,9 +13,9 @@
 <h4>About the App</h4>
  <p></p>
  
- <img src="" />
+ <img src="#" />
  
- <video src="" />
+ <video src="#" />
  
  
 <h4>Technologies</h4>
