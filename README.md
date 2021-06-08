@@ -6,7 +6,7 @@
 <ul>
   <li><a href="#">About the App</a></li>
   <li><a href="#">Technologies</a></li>
-  <li>Concepts and Pratics</li>
+  <li><a href="#">Concepts and Pratics</a></li>
 </ul>
 
 
