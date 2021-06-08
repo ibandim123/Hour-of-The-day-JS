@@ -15,7 +15,7 @@
  
  <img src="#" />
  
- <video src="#" />
+ <video src="#"> </video>
  
  
 <h4 id="#tech">Technologies</h4>
