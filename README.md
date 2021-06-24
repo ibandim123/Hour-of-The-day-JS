@@ -15,7 +15,8 @@
  
  <img src="#" />
  
- <video src="https://www.loom.com/share/f748c319210c4f70be3b4507f4dca99c"> </video>
+Link Video ( In Portuguese ) = https://www.loom.com/share/f748c319210c4f70be3b4507f4dca99c <br>
+Link Video ( In English ) *Sorry, is not complete yet.
  
  
 <h4 id="#tech">Technologies</h4>
