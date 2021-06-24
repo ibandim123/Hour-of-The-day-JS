@@ -4,19 +4,22 @@
 
 <h4>Summary</h4>
 <ul>
-  <li><a href="#about">About the App</a></li>
-  <li><a href="#tech">Technologies</a></li>
-  <li><a href="#concept">Concepts and Pratics</a></li>
+  <li><a>About the App</a></li>
+  <li><a>Technologies</a></li>
+  <li><a>Concepts and Pratics</a></li>
 </ul>
 
 
 <h4 id="#about">About the App</h4>
- <p></p>
+ <p> This is a simple web app that show you hours, city and temperature based in API call</p>
  
+ Desktop and Tablet
  <img src="erro.png" />
+ 
+ Mobile
  <img src="banner.png" />
  
-Link Video ( In Portuguese ) = https://www.loom.com/share/f748c319210c4f70be3b4507f4dca99c <br>
+Link Video ( In Portuguese )  https://www.loom.com/share/f748c319210c4f70be3b4507f4dca99c <br>
 Link Video ( In English ) *Sorry, is not complete yet.
  
  
