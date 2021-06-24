@@ -1,29 +1,30 @@
-<h1> Welcome to Show You; Project Web App </h1>
+# Welcome to Show You; Project Web App 
 
 <description>Simple PWA project with essentials concepts</description>
-
-<h4>Summary</h4>
+<hr>
+## Summary
 <ul>
   <li><a>About the App</a></li>
   <li><a>Technologies</a></li>
   <li><a>Concepts and Pratics</a></li>
 </ul>
 
-
+<hr>
 <h4 id="#about">About the App</h4>
  <p> This is a simple web app that show you hours, city and temperature based in API call</p>
  
- Desktop and Tablet
+## Desktop and Tablet
  <img src="erro.png" />
  
- Mobile
+## Mobile
  <img src="banner.png" />
  
+<hr>
 Link Video ( In Portuguese )  https://www.loom.com/share/f748c319210c4f70be3b4507f4dca99c <br>
 Link Video ( In English ) *Sorry, is not complete yet.
  
- 
-<h4 id="#tech">Technologies</h4>
+<hr>
+## Technologies
  <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -31,8 +32,8 @@ Link Video ( In English ) *Sorry, is not complete yet.
   <li>API's</li>
 </ul>
  
- 
- <h4 id="#concept">Concepts and Pratics</h4>
+<hr>
+ ## Concepts and Pratics
  <ul>
   <li>Flexbox: CSS styled</li>
   <li>API call</li>
