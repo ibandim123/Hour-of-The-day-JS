@@ -2,7 +2,10 @@
 
 <description>Simple PWA project with essentials concepts</description>
 <hr>
-## Summary
+
+
+ ## Summary
+
 <ul>
   <li><a>About the App</a></li>
   <li><a>Technologies</a></li>
@@ -10,10 +13,13 @@
 </ul>
 
 <hr>
-<h4 id="#about">About the App</h4>
+
+ ## About the App
+
  <p> This is a simple web app that show you hours, city and temperature based in API call</p>
  
 ## Desktop and Tablet
+
  <img src="erro.png" />
  
 ## Mobile
@@ -24,7 +30,9 @@ Link Video ( In Portuguese )  https://www.loom.com/share/f748c319210c4f70be3b450
 Link Video ( In English ) *Sorry, is not complete yet.
  
 <hr>
+
 ## Technologies
+
  <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -33,7 +41,9 @@ Link Video ( In English ) *Sorry, is not complete yet.
 </ul>
  
 <hr>
+
  ## Concepts and Pratics
+ 
  <ul>
   <li>Flexbox: CSS styled</li>
   <li>API call</li>
