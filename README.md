@@ -1,4 +1,4 @@
-# Welcome to Show You; Project Web App 
+# Welcome to Show You; Project Web App ⏱
 
 <description>Simple PWA project with essentials concepts</description>
 <hr>
@@ -18,11 +18,11 @@
 
  <p> This is a simple web app that show you hours, city and temperature based in API call</p>
  
-## Desktop and Tablet
+## Desktop and Tablet 🖥
 
  <img src="erro.png" />
  
-## Mobile
+## Mobile 📱
  <img src="banner.png" />
  
 <hr>
