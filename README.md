@@ -1,4 +1,4 @@
-# Welcome to Show You; Project Web App ⏱
+# Welcome! Project Web App ⏱
 
 <description>Simple PWA project with essentials concepts</description>
 <hr>
